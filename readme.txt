@@ -1,1 +1,3 @@
-git is a free version control system.
+git is a distributed free version control system.
+
+what's happening here?
