@@ -3,7 +3,8 @@ git is a distributed free version control system.
 wow, misic is great.
 
 
-<<<<<<< HEAD
+push to origin master
+
 create a brance bbbb is fast
 
 bug fixed.
