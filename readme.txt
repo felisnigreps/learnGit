@@ -3,9 +3,13 @@ git is a distributed free version control system.
 wow, misic is great.
 
 
+<<<<<<< HEAD
 create a brance bbbb is fast
 
 bug fixed.
+
+I'm in the middle of the update...and it done
+create a brance bbbbbbbb is fast
 
 now i'm in the dev branch.
 
